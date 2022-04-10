@@ -11,7 +11,7 @@ font-family: 'Alata', sans-serif;
 .wrapper{
 height: auto;
 display: grid;
-grid-template-rows: 150px 60px 30px 40% 30px 40% 30px 100px 50px;
+grid-template-rows: 100% 60px 30px 40% 30px 40% 30px 100px 50px;
 grid-template-columns: 1fr 1fr 2fr 2fr 1fr 2fr 2fr 1fr 1fr;
 grid-gap: 5px;
 /*padding: 10px, 10px, 10px, 0;*/
