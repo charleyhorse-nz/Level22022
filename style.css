@@ -13,8 +13,18 @@ height: auto;
 display: grid;
 grid-template-rows: 150px 60px 30px 40% 30px 40% 30px 100px 50px;
 grid-template-columns: 1fr 1fr 2fr 2fr 1fr 2fr 2fr 1fr 1fr;
+grid-gap: 5px;
 /*padding: 10px, 10px, 10px, 0;*/
 
+}
+.banner{
+background-color: #74a1c5;
+grid-column: 2/9;
+grid-row: 1;
+}
+.responsive {
+width: 100%;
+height: auto;
 }
 
 .box_1{
