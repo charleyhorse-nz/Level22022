@@ -25,6 +25,7 @@ grid-row: 1;
 .responsive {
 width: 100%;
 height: auto;
+margin-bottom: -6px;
 }
 
 .box_1{
